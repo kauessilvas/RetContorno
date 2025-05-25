@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 
-Console.WriteLine("======== Tabuada ========");
+Console.WriteLine("======== Contorno Retângulo ========");
 
 int altura, largura;
 
